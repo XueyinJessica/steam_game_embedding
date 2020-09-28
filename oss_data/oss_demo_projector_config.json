@@ -1,0 +1,11 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Game Embedding",
+      "tensorShape": [2587,20],
+      "tensorPath": "oss_data/game_embedding.bytes",
+      "metadataPath": "oss_data/game_name.tsv"
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
